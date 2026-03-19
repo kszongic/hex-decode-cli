@@ -1,0 +1,21 @@
+{
+  "name": "hex-decode-cli",
+  "version": "1.0.0",
+  "description": "Decode hex strings to text or binary from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "hex-decode": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js 48656c6c6f"
+  },
+  "keywords": ["hex", "decode", "hexadecimal", "binary", "text", "cli", "convert"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/hex-decode-cli"
+  },
+  "homepage": "https://github.com/kszongic/hex-decode-cli#readme",
+  "type": "commonjs"
+}
