@@ -1,5 +1,5 @@
 {
-  "name": "hex-decode-cli",
+  "name": "@kszongic/hex-decode-cli",
   "version": "1.0.0",
   "description": "Decode hex strings to text or binary from the command line. Zero dependencies.",
   "main": "index.js",
